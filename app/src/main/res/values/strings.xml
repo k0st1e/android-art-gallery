@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="cattitle">Happy Cat</string>
+    <string name="catdesc">Kitty scratches!</string>
+    <string name="dinotitle">Dinosaur</string>
+    <string name="dinodesc">Dino house guard</string>
+    <string name="setuptitle">Laptop Setup</string>
+    <string name="setupdesc">Linux and Green</string>
+    <string name="viewtitle">Light haze</string>
+    <string name="viewdesc">Yellow colors</string>
+</resources>
